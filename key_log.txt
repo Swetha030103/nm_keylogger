@@ -1,0 +1,1 @@
+Key.print_screen'h''e''l''l''o'Key.space'w''o''r''l''d'Key.space'h''i'Key.space'q''u''e'
